@@ -6,7 +6,8 @@ import org.jetbrains.kotlin.konan.target.KonanTarget.*
 plugins {
 //  kotlin("multiplatform") version "1.6.20-RC-169"
 //  kotlin("multiplatform") version "1.7.0-dev-1132"
-    kotlin("multiplatform") version "1.7.0-dev-1920"
+//  kotlin("multiplatform") version "1.7.0-dev-1920"
+    kotlin("multiplatform") version "1.7.0-dev-2045"
 }
 
 repositories {
